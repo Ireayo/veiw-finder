@@ -12,6 +12,7 @@
 		18E9A4C422EF69FF007A2DE3 /* View_finder.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 18E9A4C222EF69FF007A2DE3 /* View_finder.xcdatamodeld */; };
 		18E9A4C622EF6A01007A2DE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18E9A4C522EF6A01007A2DE3 /* Assets.xcassets */; };
 		18E9A4C922EF6A01007A2DE3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18E9A4C722EF6A01007A2DE3 /* LaunchScreen.storyboard */; };
+		18E9A4D122EF776B007A2DE3 /* NewPhotoViewControllerTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18E9A4D022EF776B007A2DE3 /* NewPhotoViewControllerTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		18E9A4C522EF6A01007A2DE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18E9A4C822EF6A01007A2DE3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		18E9A4CA22EF6A01007A2DE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		18E9A4D022EF776B007A2DE3 /* NewPhotoViewControllerTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPhotoViewControllerTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				18E9A4BB22EF69FF007A2DE3 /* AppDelegate.swift */,
 				18E9A4BF22EF69FF007A2DE3 /* Main.storyboard */,
+				18E9A4D022EF776B007A2DE3 /* NewPhotoViewControllerTableViewController.swift */,
 				18E9A4C522EF6A01007A2DE3 /* Assets.xcassets */,
 				18E9A4C722EF6A01007A2DE3 /* LaunchScreen.storyboard */,
 				18E9A4CA22EF6A01007A2DE3 /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18E9A4D122EF776B007A2DE3 /* NewPhotoViewControllerTableViewController.swift in Sources */,
 				18E9A4C422EF69FF007A2DE3 /* View_finder.xcdatamodeld in Sources */,
 				18E9A4BC22EF69FF007A2DE3 /* AppDelegate.swift in Sources */,
 			);
